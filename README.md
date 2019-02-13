@@ -7,3 +7,6 @@ These are a few of my favorite things: 11
 - Bright copper kettles
 - Warm woolen mittens
 - Not editing directly on GitHub
+- Banter
+- More banter
+- ```more_banter <- TRUE```
